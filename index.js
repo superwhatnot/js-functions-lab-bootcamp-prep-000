@@ -13,7 +13,5 @@ function happyHolidays() {
 // the string `Happy holidays, ${name}!`
 */
 function happyHolidaysTo(person) {
-  return "Happy holidays, "
-  return ${person}
-  return "!"
+  return `Happy Holidays, ${person}, !`
 }
