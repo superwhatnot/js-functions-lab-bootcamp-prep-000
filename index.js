@@ -22,5 +22,5 @@ function happyHolidaysTo(person) {
 // This function should return the string `Happy ${holiday}, ${name}!`
 
 function happyHolidayTo(holiday, person) {
-  return `Happy ${holiday}, ${person}`
+  return `Happy ${holiday}, ${person}!`
 }
