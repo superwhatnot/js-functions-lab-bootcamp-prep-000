@@ -24,3 +24,13 @@ function happyHolidaysTo(person) {
 function happyHolidayTo(holiday, person) {
   return `Happy ${holiday}, ${person}!`
 }
+
+// Write a function named holidayCountdown.
+// This function should accept two parameters,
+// the holiday name and number of days till that
+// holiday. The function should return the string
+// `It's ${days} days until ${holiday}!`
+
+function holidayCountdown(holiday, days) {
+  return `It's ${days} days until ${holiday}`
+}
